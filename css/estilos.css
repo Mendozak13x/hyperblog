@@ -43,6 +43,11 @@ body
     font-size: 20px;
 
 }
+
+#footer{
+    color: blue;
+}
+
 #post
 {
     padding: 1em;
