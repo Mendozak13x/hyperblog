@@ -1,5 +1,6 @@
 body 
 {
+    background: black;
     color: #333;
     text-align: center;
 
@@ -43,6 +44,11 @@ body
     font-size: 20px;
 
 }
+
+#footer{
+    color: blue;
+}
+
 #post
 {
     padding: 1em;
